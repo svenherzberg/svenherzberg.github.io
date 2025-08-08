@@ -1,0 +1,55 @@
+technical:
+  - title: Ruby
+    level: advanced
+  - title: Jekyll
+    level: advanced
+  - title: HTML
+    level: advanced
+  - title: CSS
+    level: advanced
+  - title: JavaScript
+    level: advanced
+  - title: Git
+    level: advanced
+  - title: GitHub
+    level: advanced
+  - title: CI/CD
+    level: intermediate
+  - title: Docker
+    level: intermediate
+  - title: AWS
+    level: beginner
+
+
+soft:
+  - title: Communication
+    level: advanced
+  - title: Teamwork
+    level: advanced
+  - title: Problem-solving
+    level: advanced
+  - title: Adaptability
+    level: advanced
+  - title: Time management
+    level: intermediate
+  - title: Creativity
+    level: advanced
+  - title: Critical thinking
+    level: advanced
+  - title: Emotional intelligence
+    level: intermediate
+  - title: Leadership
+    level: intermediate
+  - title: Work ethic
+    level: advanced
+
+
+language:
+  - title: English
+    level: fluent
+  - title: German
+    level: native
+  - title: Modern Greek
+    level: fluent
+  - title: French
+    level: basic
