@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Sven Herzberg
+author_profile: true
 ---
 
 

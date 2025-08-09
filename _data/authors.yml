@@ -1,0 +1,12 @@
+Sven Herzberg:
+  name        : "Sven Herzberg"
+  bio         : "Let's talk about code! n Reach out via the links below."
+  avatar      : "https://placehold.co/400"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@svenherzberg.eu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.svenherzberg.eu"
+ 
