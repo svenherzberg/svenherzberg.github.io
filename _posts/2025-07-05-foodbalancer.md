@@ -3,6 +3,7 @@ layout: posts
 title:  "Food Balancer"
 date:   2025-05-07 11:57:48 +0000
 categories: work
+tags: [code]
 highlight_home: true
 author: Sven Herzberg
 author_profile: true
