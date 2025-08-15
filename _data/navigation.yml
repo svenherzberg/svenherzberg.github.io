@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: /mywork/
+    url: /projects/
   - title: "Writing"
-    url: /mywriting/
+    url: /writing/
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About"

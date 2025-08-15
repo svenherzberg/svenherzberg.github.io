@@ -1,9 +1,12 @@
 ---
 layout: posts
-title:  "Food Balancer"
+title: "Food Balancer"
+categories: [project]
+tags: [python, flask, ml]
+thumbnail: /assets/images/projects/food-balancer.jpg
+excerpt: "A small ML-powered nutrition helper."
 date:   2025-05-07 11:57:48 +0000
 categories: work
-tags: [code]
 highlight_home: true
 author: Sven Herzberg
 author_profile: true
