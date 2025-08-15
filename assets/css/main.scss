@@ -36,3 +36,34 @@
 .buttons a:hover {
   background-color: #b2dfdb; /* Hover-Hintergrundfarbe */
 }
+
+.hero {
+  display: flex;
+  align-items: center; /* Zentriert vertikal */
+  gap: 20px; /* Abstand zwischen Pitch und Bild */
+}
+
+.pitch {
+  flex: 1; /* Nimmt den verfügbaren Platz ein */
+}
+
+.image img {
+  max-width: 100%; /* Bild passt sich an */
+  }
+.hero {
+  display: flex;
+  align-items: center; /* Zentriert vertikal */
+  gap: 20px; /* Abstand zwischen Pitch und Bild */
+}
+
+.pitch {
+  flex: 1; /* Nimmt den verfügbaren Platz ein */
+}
+
+.image img {
+  max-width: 100%; /* Bild passt sich an */
+  border-radius: 10px; /* Abgerundete Ecken */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leichter Schatten */  
+  width: 50%; /* Bild auf halbe Größe setzen */
+  height: auto; /* Proportionen beibehalten */
+}

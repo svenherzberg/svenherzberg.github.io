@@ -11,6 +11,26 @@ toc: false
 v5
 
 
+<div class="hero">
+  <div class="pitch">
+    <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
+    <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
+    <div class="buttons">
+      <a href="#" class="button">My Work</a>
+      <a href="#" class="button">Writing</a>
+      <a href="#" class="button">GitHub</a>
+    </div>
+    <div class="badges">
+      <span class="badge">16+ yrs experience</span>
+      <span class="badge">2 patents filed</span>
+      <span class="badge">Conference Speaker</span>
+    </div>
+  </div>
+  <div class="image">
+    <img src="/assets/images/profile.jpeg" alt="Profile Image">
+  </div>
+</div>
+
 <!-- HERO SPLIT -->
 <section class="hero-split">
   <div class="hero-split__text">
