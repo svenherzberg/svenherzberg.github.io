@@ -8,12 +8,13 @@ author_profile: false
 toc: false
 ---
 
-v5
+v6
 
 
 <div class="hero">
   <div class="pitch">
-    <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
+    <h1>Hi, I'm Sven</h1>
+    <p class="tagline">Developer & AI/ML Enthusiast</p>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
     <div class="buttons">
       <a href="#" class="button">My Work</a>
