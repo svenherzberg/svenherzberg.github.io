@@ -1,0 +1,13 @@
+---
+---
+@import "minimal-mistakes";
+@import "/assets/css/custom.scss";
+
+
+.badges2 {
+  display: inline-block;
+  padding: .25rem .6rem;
+  border-radius: 999px;
+  background: var(--mm-grey-100);
+  border: 1px solid var(--mm-grey-200);
+  color: rgb(81, 27, 85) 

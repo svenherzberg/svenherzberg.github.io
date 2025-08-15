@@ -15,6 +15,13 @@ toc: false
     <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
 
+    <div class="badges2">
+      <div>16+ yrs experience</div>
+      <div>2 patents filed</div>
+      <div>Conference Speaker</div>
+      <div>Conference Speaker 2</div>
+    </div>
+
     <ul class="badges">
       <li>14+ yrs experience</li>
       <li>2 patents filed</li>
