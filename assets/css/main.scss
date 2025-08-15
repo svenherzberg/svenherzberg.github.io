@@ -1,13 +1,38 @@
 ---
 ---
-@import "minimal-mistakes";
-@import "/assets/css/custom.scss";
+@charset "utf-8";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
-.badges2 {
-  display: inline-block;
-  padding: .25rem .6rem;
-  border-radius: 999px;
-  background: var(--mm-grey-100);
-  border: 1px solid var(--mm-grey-200);
-  color: rgb(81, 27, 85) 
+.badges {
+  display: flex;
+  gap: 10px; /* Abstand zwischen den Badges */
+}
+
+.badge {
+  background-color: #e0e4dc; /* Helle Hintergrundfarbe */
+  color: #00796b; /* Textfarbe */
+  padding: 5px 10px; /* Innenabstand */
+  border-radius: 20px; /* Abgerundete Ecken */
+  font-size: 14px; /* Schriftgröße */
+  font-weight: bold; /* Fettschrift */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
+  margin-bottom: 20px; /* Abstand unter den Badges */
+}
+
+.buttons a {
+  display: inline-block; /* Stellt sicher, dass die Buttons wie Blöcke aussehen */
+  border: 2px solid #00796b; /* Rahmenfarbe */
+  border-radius: 5px; /* Abgerundete Ecken */
+  padding: 10px 20px; /* Innenabstand */
+  text-decoration: none; /* Entfernt Unterstreichung */
+  color: #00796b; /* Textfarbe */
+  font-weight: bold; /* Fettschrift */
+  background-color: #e0f7fa; /* Hintergrundfarbe */
+  transition: background-color 0.3s ease; /* Hover-Effekt */
+}
+
+.buttons a:hover {
+  background-color: #b2dfdb; /* Hover-Hintergrundfarbe */
+}

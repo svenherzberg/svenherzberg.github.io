@@ -8,40 +8,35 @@ author_profile: false
 toc: false
 ---
 
+v5
+
 
 <!-- HERO SPLIT -->
 <section class="hero-split">
   <div class="hero-split__text">
-    <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
-    <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
+      <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
+      <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
 
-    <div class="badges2">
-      <div>16+ yrs experience</div>
-      <div>2 patents filed</div>
-      <div>Conference Speaker</div>
-      <div>Conference Speaker 2</div>
-    </div>
+      <div class="badges">
+        <span class="badge">16+ yrs experience</span>
+        <span class="badge">2 patents filed</span>
+        <span class="badge">Conference Speaker</span>
+      </div>
 
-    <ul class="badges">
-      <li>14+ yrs experience</li>
-      <li>2 patents filed</li>
-      <li>Conference speaker</li>
-    </ul>
+      <div class="hero__ctas">
+        <a class="btn btn--primary" href="/projects/">My Work</a>
+        <a class="btn" href="/writing/">Writing</a>
+        <a class="btn" href="https://github.com/YOUR_GH_USERNAME">GitHub</a>
+      </div>
 
-    <div class="hero__ctas">
-      <a class="btn btn--primary" href="/projects/">My Work</a>
-      <a class="btn" href="/writing/">Writing</a>
-      <a class="btn" href="https://github.com/YOUR_GH_USERNAME">GitHub</a>
-    </div>
+      <nav class="quicklinks">
+        <a href="/projects/#ml">ML</a>
+        <a href="/projects/#performance">Performance</a>
+        <a href="/projects/#quantum">Quantum</a>
+        <a href="/about/">About</a>
+      </nav>
 
-    <nav class="quicklinks">
-      <a href="/projects/#ml">ML</a>
-      <a href="/projects/#performance">Performance</a>
-      <a href="/projects/#quantum">Quantum</a>
-      <a href="/about/">About</a>
-    </nav>
   </div>
-
 </section>
 
 <!-- PROJECTS -->
