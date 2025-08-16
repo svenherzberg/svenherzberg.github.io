@@ -17,3 +17,11 @@
 
 # ToDo
 -[ ] Pages in eigenen Ordner legen
+prüfen: In Minimal Mistakes, Projekte sollten das Layout single oder archive verwenden, je nach gewünschter Darstellung:
+
+single:
+Wird verwendet, wenn du ein einzelnes Projekt detailliert darstellen möchtest.
+Es eignet sich für Seiten mit ausführlichem Inhalt und Bildern.
+archive:
+Wird verwendet, wenn du eine Liste von Projekten anzeigen möchtest.
+Es zeigt mehrere Projekte in einem übersichtlichen Layout, oft mit Karten oder einer Liste.

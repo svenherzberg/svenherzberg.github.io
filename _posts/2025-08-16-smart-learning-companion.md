@@ -1,16 +1,16 @@
 ---
 title: "Smart Learning Companion"
+layout: single
 date: 2025-08-16
 categories: project
 highlight_home: true
 excerpt: "An AI-driven tool to personalize and enhance the learning experience for students and professionals"
-thumbnail: assets/images/yustinus-tjiuwanda-BCBGahg0MH0-unsplash.jpg
+thumbnail: assets/images/brain.PNG
 tags: [learning, AI, education]
 header:
-    overlay_image: assets/images/yustinus-tjiuwanda-BCBGahg0MH0-unsplash.jpg
+    overlay_image: assets/images/brain.PNG
     overlay_color: #f1ededff
-    teaser: assets/images/yustinus-tjiuwanda-BCBGahg0MH0-unsplash.jpg
-    caption: Foto credit [**Yustinus Tjiuwanda**](https://unsplash.com/de/@yustinustjiu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [**Unsplash**](https://unsplash.com/de/fotos/frau-tragt-weissen-pullover-BCBGahg0MH0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+    teaser: assets/images/brain.PNG
 ---
      
 

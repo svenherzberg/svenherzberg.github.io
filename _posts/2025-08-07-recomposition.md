@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Body Recomposition"
 date:   2025-08-07 11:57:48 +0000
 categories: article
