@@ -16,7 +16,7 @@ toc: false
     <div class="hero__ctas">
       <a class="btn btn--primary" href="/projects/">My Work</a>
       <a class="btn" href="/writing/">Writing</a>
-      <a class="btn" href="https://github.com/YOUR_GH_USERNAME">GitHub</a>
+      <a class="btn" href="https://github.com/svenherzberg">GitHub</a>
     </div>
     <div class="badges">
       <span class="badge">16+ yrs experience</span>

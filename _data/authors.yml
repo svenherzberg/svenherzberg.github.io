@@ -8,5 +8,8 @@ Sven Herzberg:
       url: "mailto:contact@svenherzberg.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.svenherzberg.eu"
- 
+      url: "https://svenherzberg.github.io/"
+      title: "Sven Herzberg's Website"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/svenherzberg"
