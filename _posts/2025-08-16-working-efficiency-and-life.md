@@ -1,7 +1,7 @@
 ---
 title: "Working Efficiency and Life"
 date: 2025-08-16
-categories: writing
+categories: article
 excerpt: "Exploring the balance between productivity and personal well-being in modern life."
 tags: [efficiency, productivity, life]
 ---

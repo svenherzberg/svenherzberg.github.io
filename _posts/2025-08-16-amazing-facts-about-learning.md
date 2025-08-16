@@ -1,7 +1,7 @@
 ---
 title: "Amazing Facts About Learning"
 date: 2025-08-16
-categories: writing
+categories: article
 excerpt: "Uncover fascinating insights into how humans learn and adapt."
 tags: [learning, education, facts]
 ---
