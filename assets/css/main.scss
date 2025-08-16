@@ -7,7 +7,9 @@
 
 .badges {
   display: flex;
-  gap: 10px; /* Abstand zwischen den Badges */
+  flex-wrap: wrap; /* Erlaubt das Umbruch der Badges in die nächste Zeile */
+  gap: 10px 5px; /* Horizontaler Abstand: 10px, Vertikaler Abstand: 5px */
+  margin-top: 20px; /* Abstand über den Badges */
 }
 
 .badge {
@@ -19,6 +21,7 @@
   font-weight: bold; /* Fettschrift */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
   margin-bottom: 20px; /* Abstand unter den Badges */
+  white-space: nowrap; /* Verhindert Umbrüche innerhalb der Badge */
 }
 
 .buttons a {
@@ -38,22 +41,13 @@
 }
 
 .hero {
-  display: flex;
+  display: flex; /* Flexbox für horizontale Ausrichtung */
   align-items: center; /* Zentriert vertikal */
-  gap: 20px; /* Abstand zwischen Pitch und Bild */
+  gap: 20px; /* Abstand zwischen Header und Bild */
 }
 
-.pitch {
-  flex: 1; /* Nimmt den verfügbaren Platz ein */
-}
-
-.image img {
-  max-width: 100%; /* Bild passt sich an */
-  }
-.hero {
-  display: flex;
-  align-items: center; /* Zentriert vertikal */
-  gap: 20px; /* Abstand zwischen Pitch und Bild */
+.image {
+  margin-left: auto; /* Bild nach rechts schieben */
 }
 
 .pitch {
@@ -64,7 +58,11 @@
   max-width: 100%; /* Bild passt sich an */
   border-radius: 10px; /* Abgerundete Ecken */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leichter Schatten */  
-  width: 50%; /* Bild auf halbe Größe setzen */
-  height: auto; /* Proportionen beibehalten */
+  width: 55%; /* Erhöht die Bildgröße um 10% */
+  height: auto; /* Beibehaltung der Proportionen */
+}
+
+.hero__ctas {
+  margin-bottom: 20px; /* Abstand unter den Buttons */
 }
 

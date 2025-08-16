@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sven Herzberg"
+title: ""
 classes: wide
 permalink: /
 description: "Developer · AI/ML · Performance · Quantum Programming"
@@ -8,57 +8,27 @@ author_profile: false
 toc: false
 ---
 
-v9
-
-
 <div class="hero">
   <div class="pitch">
     <h1>Hi, I'm Sven</h1>
     <p class="tagline">Developer & AI/ML Enthusiast</p>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
-    <div class="buttons">
-      <a href="#" class="button">My Work</a>
-      <a href="#" class="button">Writing</a>
-      <a href="#" class="button">GitHub</a>
+    <div class="hero__ctas">
+      <a class="btn btn--primary" href="/projects/">My Work</a>
+      <a class="btn" href="/writing/">Writing</a>
+      <a class="btn" href="https://github.com/YOUR_GH_USERNAME">GitHub</a>
     </div>
     <div class="badges">
       <span class="badge">16+ yrs experience</span>
       <span class="badge">2 patents filed</span>
-      <span class="badge">Conference Speaker</span>
+      <span class="badge">conference speaker</span>
+      
     </div>
   </div>
   <div class="image">
     <img src="/assets/images/profile.jpeg" alt="Profile Image">
   </div>
 </div>
-
-<!-- HERO SPLIT -->
-<section class="hero-split">
-  <div class="hero-split__text">
-      <h1>Hi, I'm Sven — Developer & AI/ML Enthusiast</h1>
-      <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
-
-      <div class="badges">
-        <span class="badge">16+ yrs experience</span>
-        <span class="badge">2 patents filed</span>
-        <span class="badge">Conference Speaker</span>
-      </div>
-
-      <div class="hero__ctas">
-        <a class="btn btn--primary" href="/projects/">My Work</a>
-        <a class="btn" href="/writing/">Writing</a>
-        <a class="btn" href="https://github.com/YOUR_GH_USERNAME">GitHub</a>
-      </div>
-
-      <nav class="quicklinks">
-        <a href="/projects/#ml">ML</a>
-        <a href="/projects/#performance">Performance</a>
-        <a href="/projects/#quantum">Quantum</a>
-        <a href="/about/">About</a>
-      </nav>
-
-  </div>
-</section>
 
 <!-- PROJECTS -->
 <section class="block">
