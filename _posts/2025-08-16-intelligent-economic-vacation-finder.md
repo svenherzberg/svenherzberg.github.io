@@ -1,5 +1,6 @@
 ---
 title: "Intelligent Economic Vacation Finder"
+layout: posts
 date: 2025-08-16
 categories: project
 excerpt: "A tool to find the most cost-effective vacation destinations based on user preferences and budget."

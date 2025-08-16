@@ -9,7 +9,7 @@
 |       16.08.2025     |  Layout - Home      |  1 h    |
 |       16.08.2025     |  Sample posts creation      |  0.5 h    |
 |       16.08.2025     |  Home & Projects: as card with thumbnail      |  1 h    |
-|       xx.08.2025     |  Thumbnails      |  ? h    |
+|       xx.08.2025     |  Generate Images and Thumbnails      |  1 h    |
 |       xx.08.2025     |  : creating view      |  ? h    |
 |       --     |  Tile Bugfixing      |      |
 
