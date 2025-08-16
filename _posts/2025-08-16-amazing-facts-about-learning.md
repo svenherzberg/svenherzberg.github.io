@@ -1,9 +1,11 @@
 ---
 title: "Amazing Facts About Learning"
+layout: posts
 date: 2025-08-16
 categories: article
 excerpt: "Uncover fascinating insights into how humans learn and adapt."
 tags: [learning, education, facts]
+thumbnail: /assets/images/amazing-learning-thumbnail.jpeg
 ---
 
 Learning is a remarkable process that shapes our understanding of the world and drives personal growth. This article explores some amazing facts about learning that highlight its complexity and importance.

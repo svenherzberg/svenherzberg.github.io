@@ -7,9 +7,10 @@
 |       09.08.2025     |  Brainstorming Layout      |  1 h    |
 |       15.08.2025     |  Adding image in about section and restructuring (-> issues)      |  1 h    |
 |       16.08.2025     |  Layout - Home      |  1 h    |
-|       15.08.2025     |  Sample posts creation      |  0.5 h    |
-|       xx.08.2025     |  Home: projects as card with thumbnail      |  ? h    |
-|       xx.08.2025     |  Projects: creating view      |  ? h    |
+|       16.08.2025     |  Sample posts creation      |  0.5 h    |
+|       16.08.2025     |  Home & Projects: as card with thumbnail      |  1 h    |
+|       xx.08.2025     |  Thumbnails      |  ? h    |
+|       xx.08.2025     |  : creating view      |  ? h    |
 |       --     |  Tile Bugfixing      |      |
 
 
