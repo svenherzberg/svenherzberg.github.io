@@ -107,3 +107,24 @@
   color: #777;
 }
 
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* Space between elements */
+}
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column; /* Stack elements vertically */
+    text-align: center; /* Center-align text */
+  }
+
+  .image img {
+    width: 80%; /* Adjust image size for smaller screens */
+    margin: 0 auto; /* Center the image */
+  }
+
+  .pitch {
+    margin-bottom: 20px; /* Add spacing below the pitch section */
+  }
+}
