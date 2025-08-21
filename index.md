@@ -7,6 +7,7 @@ description: "Developer · AI/ML · Performance · Quantum Programming"
 author_profile: false
 toc: false
 ---
+V12
 
 <div class="hero">
   <div class="pitch">
