@@ -7,8 +7,6 @@ description: "Developer · AI/ML · Performance · Quantum Programming"
 author_profile: false
 toc: false
 ---
-V13
-
 <div class="hero">
   <div class="pitch">
     <h1>Hi, I'm Sven</h1>
