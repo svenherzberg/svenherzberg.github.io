@@ -1,6 +1,6 @@
 ---
 title: "Thrifty TripAdvisor"
-layout: single
+layout: archive
 date: 2025-08-16
 categories: project
 excerpt: "A tool to find the most cost-effective vacation destinations based on user preferences and budget."

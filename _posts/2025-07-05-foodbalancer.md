@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Food Balancer"
 categories: [project]
 tags: [python, flask, ml]

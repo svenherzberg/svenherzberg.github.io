@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title:  "Body Recomposition"
 date:   2025-08-23 11:57:48 +0200
 categories: article

@@ -1,6 +1,6 @@
 ---
 title: "Amazing Facts About Learning"
-layout: single
+layout: archive
 date: 2025-08-16
 categories: article
 excerpt: "Uncover fascinating insights into how humans learn and adapt."

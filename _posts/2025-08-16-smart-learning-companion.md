@@ -1,6 +1,6 @@
 ---
 title: "Smart Learning Companion"
-layout: single
+layout: archive
 date: 2025-08-16
 categories: project
 highlight_home: true
