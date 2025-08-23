@@ -21,6 +21,7 @@
 -[ ] Should layout be archive or single (difference: Previous/Next buttons)
 
 # ToDo
+-[ ] compare layout: splash in index.md to check what is better
 -[ ] Thumbnails should be smaller for fast loading
 -[ ] Entry page - different border right/left. Should be same
 -[ ] Texts should be of same style
