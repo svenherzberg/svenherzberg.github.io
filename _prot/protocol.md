@@ -19,6 +19,14 @@
 
 
 # ToDo
+-[ ] Thumbnails should be smaller for fast loading
+-[ ] Entry page - different border right/left. Should be same
+-[ ] Texts should be of same style
+-[ ] Github links same
+-[x] Same Document type
+-[ ] Error when using the "Previous/Next" buttons
+-[ ]
+-[ ]
 -[ ] Pages in eigenen Ordner legen
 prüfen: In Minimal Mistakes, Projekte sollten das Layout single oder archive verwenden, je nach gewünschter Darstellung:
 

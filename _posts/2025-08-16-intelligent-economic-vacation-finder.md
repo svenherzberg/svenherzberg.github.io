@@ -1,22 +1,19 @@
 ---
-title: "Intelligent Economic Vacation Finder"
-layout: posts
+title: "Thrifty TripAdvisor"
+layout: single
 date: 2025-08-16
 categories: project
 excerpt: "A tool to find the most cost-effective vacation destinations based on user preferences and budget."
 thumbnail: assets/images/island.PNG
-tags: [vacation, economics, AI]
+tags: [vacation, economics, AI, LLM]
 header:
     overlay_image: assets/images/island.PNG
     overlay_color: #f1ededff
     teaser: assets/images/island.PNG
 ---
       
-The Intelligent Economic Vacation Finder is a project designed to help users identify the best vacation destinations that align with their budget and preferences. Using advanced AI algorithms, the tool analyzes various factors such as cost, location, and user-defined criteria to recommend optimal vacation spots.
+I'm quite flexible when it comes to vacations—I have many destinations in mind, along with ideas about how long I'd like to stay and roughly when I'd like to travel. Sometimes, I'm even completely open about the dates, but I do have a few favorite airlines I prefer.
 
-### Features
-- **Cost Analysis**: Provides detailed insights into the affordability of destinations.
-- **Preference Matching**: Tailors recommendations based on user interests.
-- **AI-Powered Insights**: Utilizes machine learning to analyze trends and data.
+The Thrifty TripAdvisor searches my preferred airlines based on my preferences and restrictions, such as trip duration, travel period, and budget. It then finds the best available options for me and can either book a flight automatically or notify me so I can book it myself.
 
-Explore how this tool can revolutionize vacation planning by making it smarter and more economical.
+<i class="fab fa-github"></i>You can find the Thrifty TripAdvisor on GitHub [svenherzberg/Thrifty-Trip-Advisor](https://github.com/svenherzberg/Thrifty-Trip-Advisor).

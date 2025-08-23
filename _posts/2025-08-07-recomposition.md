@@ -35,4 +35,4 @@ You can find more information about this on the project page for the [Food Balan
 
 However, none of this information matters unless you put it into practice.
 
-In my [body-recomposition GitHub repository](https://github.com/svenherzberg/body-recomposition), I track my nutrition and weight training progress. Feel free to check it out!
+<i class="fab fa-github"></i>In my GitHub repository [svenherzberg/body-recomposition](https://github.com/svenherzberg/body-recomposition), I track my nutrition and weight training progress. Feel free to check it out!

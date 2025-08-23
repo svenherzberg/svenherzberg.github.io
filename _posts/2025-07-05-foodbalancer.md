@@ -15,5 +15,8 @@ header:
     overlay_color: #f1ededff
     teaser: assets/images/foodbowl.PNG 
 ---
-Food Balancer is a software tool designed to help users manage and optimize their daily nutrition. By tracking ingredients, meals, and nutritional values, it enables individuals and organizations to plan balanced diets tailored to specific goals or dietary restrictions. The intuitive interface allows for easy input and analysis, making it suitable for both personal use and professional environments such as catering or healthcare.
+Food Balancer is a software tool designed to help you manage and optimize your daily nutrition. Create your own list of favorite recipes, complete with ingredients, meals, macros, and nutritional values. Food Balancer automatically combines your meals to plan full days and weeks in advance, ensuring you meet your macro goals.
 
+Whether you have specific dietary targets or restrictions, Food Balancer enables you to plan balanced diets tailored to your needs. 
+
+<i class="fab fa-github"></i>Explore Food Balancer on GitHub: [svenherzberg/food-balancer](https://github.com/svenherzberg/food-balancer)

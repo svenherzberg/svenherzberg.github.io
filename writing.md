@@ -4,7 +4,7 @@ title: Writing & Posts
 permalink: /writing/
 ---
 
-## Writing & Posts
+## My Writing & Posts
 
 <div class="grid cards">
   {% assign articles = site.posts | where_exp:"p","p.categories contains 'article'" %}
