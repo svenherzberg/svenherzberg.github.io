@@ -8,5 +8,7 @@ main:
     url: /writing/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Splash"
+    url: /splash/
   - title: "About"
     url: /about/

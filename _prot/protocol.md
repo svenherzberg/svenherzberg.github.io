@@ -17,7 +17,8 @@
 |       xx.08.2025     |  xplore options for cards in grid by standard      |  ???? h    |
 |       --     |  Tile Bugfixing      |      |
 
-
+# Check and Discuss
+-[ ] Should layout be archive or single (difference: Previous/Next buttons)
 
 # ToDo
 -[ ] Thumbnails should be smaller for fast loading
