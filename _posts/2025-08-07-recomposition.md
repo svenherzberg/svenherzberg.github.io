@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Body Recomposition"
-date:   2025-08-07 11:57:48 +0000
+date:   2025-08-23 11:57:48 +0200
 categories: article
 excerpt: "Are you interested in transforming your body by losing fat and gaining muscle at the same time? On this site, I share my personal journey with body recomposition, including practical tips, scientific insights, and helpful tools. Discover nutritious recipes, effective meal planning strategies, and strength training resources—all designed to help you achieve your goals in a sustainable way. Join me as I track my progress and explore what really works for lasting change!"
 highlight_home: true
