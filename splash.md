@@ -21,7 +21,7 @@ feature_row:
     alt: "100% free"
     title: "Food Balancer"
     excerpt: "A small ML-powered nutrition helper."
-    url: "/projects/food-balancer/"
+    url: "/projects/food-balancer"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
