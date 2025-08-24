@@ -26,7 +26,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-V6
+V7
 check out source
 [Minimal Mistakes GitHub Repository](https://github.com/mmistakes/minimal-mistakes)
 
