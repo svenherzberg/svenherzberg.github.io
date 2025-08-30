@@ -15,6 +15,7 @@
 |       23.08.2025     |  Posts for "Cookbook"      |  2:00 h    |
 |       23.08.2025     |  Harmonization of Links/Document Type, ...      |  1:00 h    |
 |       30.08.2025     |  explore options for cards in grid by standard      |  2:00 h    |
+|       30.08.2025     |  fix site search      |  1:00 h    |
 |       --     |  Tile Bugfixing      |      |
 
 # Check and Discuss
