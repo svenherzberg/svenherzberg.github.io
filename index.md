@@ -13,7 +13,7 @@ toc: false
     <p class="tagline">Developer & AI/ML Enthusiast</p>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
     <div class="hero__ctas">
-      <a class="btn btn--primary" href="/projects/">My Work</a>
+      <a class="btn btn--primary" href="/projects/">Projects</a>
       <a class="btn" href="/writing/">Writing</a>
       <a class="btn" href="https://github.com/svenherzberg">GitHub</a>
     </div>

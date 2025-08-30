@@ -14,7 +14,7 @@ check out source
 [Feature Row Include Example](https://github.com/mmistakes/minimal-mistakes/blob/01eeb082da1c3a6abd24a142ac6d2491d91564c2/_includes/feature_row#L4)
 -->
 
-V10
+
 
 <div class="hero">
   <div class="pitch">
@@ -22,7 +22,7 @@ V10
     <p class="tagline">Developer & AI/ML Enthusiast</p>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
     <div class="hero__ctas">
-      <a class="btn btn--primary" href="/projects/">My Work</a>
+      <a class="btn btn--primary" href="/projects/">Projects</a>
       <a class="btn" href="/writing/">Writing</a>
       <a class="btn" href="https://github.com/svenherzberg">GitHub</a>
     </div>
