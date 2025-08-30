@@ -14,7 +14,7 @@
 |       23.08.2025     |  Posts for "Body Recomposition"      |  1 h    |
 |       23.08.2025     |  Posts for "Cookbook"      |  2:00 h    |
 |       23.08.2025     |  Harmonization of Links/Document Type, ...      |  1:00 h    |
-|       xx.08.2025     |  xplore options for cards in grid by standard      |  ???? h    |
+|       30.08.2025     |  explore options for cards in grid by standard      |  2:00 h    |
 |       --     |  Tile Bugfixing      |      |
 
 # Check and Discuss
