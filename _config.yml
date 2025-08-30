@@ -44,6 +44,8 @@ plugins:
 - jekyll-include-cache
 
 
+include: ["_pages"]
+
 # Plugins array for Jekyll (add this to your _config.yml, not Gemfile)
 # plugins:
 #   - jekyll-cache
@@ -57,7 +59,6 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-
 exclude:
   - tmp/**/CHANGELOG.md
   - CHANGELOG.md
