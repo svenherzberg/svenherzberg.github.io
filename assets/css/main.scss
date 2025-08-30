@@ -41,13 +41,15 @@
 }
 
 .hero {
-  display: flex; /* Flexbox für horizontale Ausrichtung */
-  align-items: center; /* Zentriert vertikal */
-  gap: 20px; /* Abstand zwischen Header und Bild */
+  display: flex;
+  align-items: flex-start;
+  gap: 20px; /* Space between elements */
+  margin-top: 40px; /* Abstand zur Kopfzeile */
 }
 
 .image {
-  margin-left: auto; /* Bild nach rechts schieben */
+  margin: 0 auto; /* Bild horizontal zentrieren */
+  text-align: center; /* Textausrichtung für den Container */
 }
 
 .pitch {
@@ -107,10 +109,8 @@
   color: #777;
 }
 
-.hero {
-  display: flex;
-  align-items: center;
-  gap: 20px; /* Space between elements */
+.tagline {
+  font-weight: bold; /* Tagline fett darstellen */
 }
 
 @media (max-width: 768px) {
