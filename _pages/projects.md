@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## My Projects
-
 <div class="grid cards">
   {% assign projects = site.posts | where_exp:"p","p.categories contains 'project'" %}
   {% for post in projects %}
