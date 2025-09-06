@@ -25,7 +25,7 @@ toc: false
     </div>
   </div>
   <div class="image">
-    <img src="/assets/images/profile.jpeg" alt="Profile Image">
+    <img src="/assets/images/sven2.jpg" alt="Profile Image">
   </div>
 </div>
 
