@@ -17,12 +17,11 @@ Beyond my professional life, I thrive on creativity and adventure—whether it's
 
 Let's shape the future together!
 
-## My Skills
-### Technical Skills
+## ![Technical Skills Icon](/assets/icons/customer-support.png){:class="skill-icon"} Technical Skills
 {% include technical_skills.md %}
 
-### Soft Skills
+## ![Soft Skills Icon](/assets/icons/collaborate.png){:class="skill-icon"} Soft Skills
 {% include soft_skills.md %}
 
-### Languages
+## ![Languages Icon](/assets/icons/language-2.png){:class="skill-icon"} Languages
 {% include language_skills.md %}
