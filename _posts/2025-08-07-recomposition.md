@@ -5,12 +5,12 @@ date:   2025-08-23 11:57:48 +0200
 categories: article
 excerpt: "Are you interested in transforming your body by losing fat and gaining muscle at the same time? On this site, I share my personal journey with body recomposition, including practical tips, scientific insights, and helpful tools. Discover nutritious recipes, effective meal planning strategies, and strength training resources—all designed to help you achieve your goals in a sustainable way. Join me as I track my progress and explore what really works for lasting change!"
 highlight_home: true
-thumbnail: assets/images/victor-freitas-WvDYdXDzkhs-unsplash.jpg
+thumbnail: assets/images/pexels-willpicturethis-1954524_800x450.PNG
 header:
-    overlay_image: assets/images/victor-freitas-WvDYdXDzkhs-unsplash.jpg
+    overlay_image: assets/images/pexels-willpicturethis-1954524.jpg
     overlay_color: #f1ededff
-    teaser: assets/images/victor-freitas-WvDYdXDzkhs-unsplash.jpg
-    caption: Foto credit [**Victor Freitas**](https://unsplash.com/de/@victorfreitas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [**Unsplash**](https://unsplash.com/de/fotos/person-die-im-begriff-ist-die-barbe-zu-heben-WvDYdXDzkhs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+    teaser: assets/images/pexels-willpicturethis-1954524_800x450.PNG
+    caption: Foto credit [**William Choquette**](https://www.pexels.com/de-de/@willpicturethis/) on [**Pexels**]( https://www.pexels.com/de-de/foto/ein-auf-dem-laufband-1954524/)
 ---
 # Body Recomposition
 Body recomposition is the process of simultaneously losing fat and gaining muscle. Unlike traditional methods that focus solely on weight loss or muscle gain, recomposition emphasizes improving your body’s composition—reducing body fat percentage while increasing lean muscle mass. Achieving body recomposition typically involves a combination of resistance training, adequate protein intake, and a balanced calorie approach. Progress can be gradual, but with consistency and proper nutrition, you can achieve significant changes in both your physique and overall health.

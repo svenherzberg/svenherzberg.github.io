@@ -5,7 +5,11 @@ date: 2025-08-16
 categories: article
 excerpt: "Exploring the balance between productivity and personal well-being in modern life."
 tags: [efficiency, productivity, life]
-thumbnail: /assets/images/workingefficiency.PNG
+thumbnail: /assets/images/workingefficiency_800x450.PNG
+header:
+    overlay_image: assets/images//workingefficiency.PNG
+    overlay_color: #f1ededff
+    teaser: assets/images/workingefficiency_800x450.PNG
 ---
 
 In today's fast-paced world, achieving a balance between working efficiency and personal life has become more important than ever. This article delves into strategies for optimizing productivity while maintaining a healthy work-life balance.
