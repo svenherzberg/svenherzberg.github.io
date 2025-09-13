@@ -5,7 +5,7 @@ date: 2025-08-16
 categories: project
 highlight_home: true
 excerpt: "An AI-driven tool to personalize and enhance your learning experience"
-thumbnail: assets/images/brain.PNG
+thumbnail: assets/images/brain_800x450.PNG
 tags: [learning, AI, education, LLM, embeddings, RAG]
 header:
     overlay_image: assets/images/brain.PNG

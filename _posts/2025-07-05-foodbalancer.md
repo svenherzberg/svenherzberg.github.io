@@ -3,7 +3,7 @@ layout: archive
 title: "Food Balancer"
 categories: [project]
 tags: [python, flask, ml]
-thumbnail: assets/images/foodbowl.PNG
+thumbnail: assets/images/foodbowl_800x450.PNG
 excerpt: "A small ML-powered nutrition helper."
 date:   2025-05-07 11:57:48 +0000
 categories: project

@@ -4,7 +4,7 @@ layout: archive
 date: 2025-08-16
 categories: project
 excerpt: "A tool to find the most cost-effective vacation destinations based on user preferences and budget."
-thumbnail: assets/images/island.PNG
+thumbnail: assets/images/island_800x450.PNG
 tags: [vacation, economics, AI, LLM]
 header:
     overlay_image: assets/images/island.PNG
