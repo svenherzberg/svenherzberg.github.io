@@ -3,14 +3,14 @@ layout: splash
 title: ""
 classes: wide
 permalink: /
-description: "Developer · AI/ML · Performance · Quantum Programming"
+description: "Development Expert · AI/ML · Performance · Quantum Programming"
 author_profile: false
 toc: false
 ---
 <div class="hero">
   <div class="pitch">
     <h1>Hi, I'm Sven</h1>
-    <p class="tagline">Developer & AI/ML Enthusiast</p>
+    <p class="tagline">Development Expert & AI/ML Enthusiast</p>
     <p>I build performant services, scale prototypes to production, and explore AI & quantum programming.</p>
     <div class="badges">
       <span class="badge">16+ yrs experience</span>
@@ -75,3 +75,10 @@ toc: false
     {% endfor %}
   </div>
 </section>
+
+
+
+### Let’s Work Together
+---
+I'm open to collaborations, speaking engagements, and global tech challenges.  
+**Let’s shape the future together → [Contact Me](mailto:contact@sven-herzberg.eu)**
