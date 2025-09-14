@@ -1,55 +1,91 @@
-technical:
-  - title: Ruby
-    level: advanced
-  - title: Jekyll
-    level: advanced
-  - title: HTML
-    level: advanced
-  - title: CSS
-    level: advanced
-  - title: JavaScript
-    level: advanced
-  - title: Git
-    level: advanced
-  - title: GitHub
-    level: advanced
-  - title: CI/CD
-    level: intermediate
-  - title: Docker
-    level: intermediate
-  - title: AWS
-    level: beginner
+technical_skills:
+  - name: Python
+    level: Advanced
+  - name: Machine Learning (scikit-learn, pandas, numpy)
+    level: Advanced
+  - name: Deep Learning (TensorFlow, Keras)
+    level: Advanced
+  - name: Generative AI (LLMs, RAG, LangChain, Huggingface)
+    level: Advanced
+  - name: Docker
+    level: Advanced
+  - name: Kubernetes
+    level: Advanced
+  - name: Kubeflow
+    level: Advanced
+  - name: CI/CD
+    level: Advanced
+  - name: ABAP OO
+    level: Advanced
+  - name: SAPUI5
+    level: Advanced
+  - name: JavaScript
+    level: Intermediate
+  - name: FastAPI / Flask / Django
+    level: Intermediate
+  - name: Google Cloud Platform
+    level: Intermediate
+  - name: Vector Databases (Weaviate, FAISS, etc.)
+    level: Intermediate
+  - name: Elasticsearch
+    level: Intermediate
+  - name: SQL / PostgreSQL / MongoDB
+    level: Intermediate
+  - name: Streamlit
+    level: Intermediate
+  - name: HANA Core Data Services
+    level: Intermediate
+  - name: Blockchain
+    level: Beginner
+  - name: SAP HANA ML Library
+    level: Intermediate
+  - name: Git / Version Control
+    level: Intermediate
+  - name: JIRA
+    level: Intermediate
+  - name: LaTeX / MATLAB / Mathematica
+    level: Intermediate
+  - name: AWS Alexa Skills
+    level: Beginner
 
 
-soft:
-  - title: Communication
-    level: advanced
-  - title: Teamwork
-    level: advanced
-  - title: Problem-solving
-    level: advanced
-  - title: Adaptability
-    level: advanced
-  - title: Time management
-    level: intermediate
-  - title: Creativity
-    level: advanced
-  - title: Critical thinking
-    level: advanced
-  - title: Emotional intelligence
-    level: intermediate
-  - title: Leadership
-    level: intermediate
-  - title: Work ethic
-    level: advanced
+soft_skills:
+  - name: Technical Leadership
+    level: Advanced
+  - name: Project Management
+    level: Advanced
+  - name: Mentoring & Coaching
+    level: Advanced
+  - name: Architecture Design
+    level: Advanced
+  - name: Communication & Presentation
+    level: Advanced
+  - name: Cross-functional Collaboration
+    level: Advanced
+  - name: Strategic Thinking
+    level: Advanced
+  - name: Stakeholder Management
+    level: Intermediate
+  - name: Innovation & Prototyping
+    level: Advanced
+  - name: Performance Optimization
+    level: Advanced
+  - name: Problem Solving
+    level: Advanced
+  - name: Multilingual Communication (EN, DE, GR, FR)
+    level: Advanced
+  - name: Documentation & Training
+    level: Advanced
+  - name: Self-Organization
+    level: Advanced
 
 
-language:
-  - title: 🇬🇧 English
+language_skills:
+  - name: 🇬🇧 English
     level: fluent
-  - title: 🇩🇪 German
+  - name: 🇩🇪 German
     level: native
-  - title: 🇬🇷 Modern Greek
+  - name: 🇬🇷 Modern Greek
     level: fluent
-  - title: 🇫🇷 French
+  - name: 🇫🇷 French
     level: basic
