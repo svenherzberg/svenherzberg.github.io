@@ -112,6 +112,16 @@ Outside of tech, I recharge through creative and physical activities: hiking (e.
   </ul>
 </details>
 
+## ![Languages Icon](/assets/icons/language-2.png){:class="skill-icon"} Languages [^3]
+
+- 🇬🇧**English**: Fluent
+- 🇩🇪**German**: Native
+- 🇫🇷**French**: Basic
+- 🇬🇷**Greek**: Intermediate
+
 ---
 
 📫 **Let’s shape the future together** – I’m open to collaboration, speaking opportunities, and global tech challenges.
+
+
+[^3]: <a href="https://www.flaticon.com/free-icons/language" title="language icons">Language icons created by Freepik - Flaticon</a>
